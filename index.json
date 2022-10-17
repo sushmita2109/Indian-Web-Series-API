@@ -2026,5 +2026,24 @@
     "seasons": 1,
     "releaseDate": "20 May 2021"
   },
-
+{
+  "id": 104,
+  "name": "CID",
+  "rating": 6.8,
+  "description": "ACP Pradyuman, Daya and Abhijeet are an elite trio of officers who work for the CID. They seek the help of professional forensic expert Dr Salunkhe and solve various criminal cases.",
+  "category": ["Crime","Drama","Mystery"],
+  "platform": "Sony Liv",
+  "casting": {
+    "actors": [
+      "Shivaji Satam",
+      "Damand Shetty",
+      "Aditya Srivastava"
+    ],
+    "director": ["B P Singh"]
+  },
+  "poster": "https://upload.wikimedia.org/wikipedia/en/b/b5/CID_%28Indian_TV_series%29.png",
+  "episodeCount": "1547",
+  "seasons": 1,
+  "releaseDate": "21 JAN 1998 "
+}
 ]

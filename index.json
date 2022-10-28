@@ -1996,7 +1996,7 @@
       ],
       "director": ["Rajesh Mapuskar"]
     },
-    "poster":"https://m.media-amazon.com/images/M/MV5BNDA0ZjVlNDAtMWFkOC00YmQwLWEyNjQtNGMxYjNmYjcwNjVhXkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UY209_CR0,0,140,209_AL_.jpg"
+    "poster":"https://m.media-amazon.com/images/M/MV5BNDA0ZjVlNDAtMWFkOC00YmQwLWEyNjQtNGMxYjNmYjcwNjVhXkEyXkFqcGdeQXVyMTAyMTE1MDA1._V1_UY209_CR0,0,140,209_AL_.jpg",
      "episodeCount": 6,
     "seasons": 1,
     "releaseDate": {
@@ -2026,6 +2026,7 @@
     "seasons": 1,
     "releaseDate": "20 May 2021"
   },
+
 {
   "id": 104,
   "name": "CID",
@@ -2046,4 +2047,95 @@
   "seasons": 1,
   "releaseDate": "21 JAN 1998 "
 }
+
+
+ {
+    "id": 93,
+    "name": "The Family Man",
+    "rating": 8.7,
+    "description": "The Family Man is an Indian spy thriller streaming television series created by Raj Nidimoru and Krishna D.K.[1] for the streaming service Amazon Prime Video and features Manoj Bajpayee as Srikant Tiwari, a middle-class man secretly working as an intelligence officer for the Threat Analysis and Surveillance Cell (TASC), a fictitious branch of the National Investigation Agency.",
+    "category": ["Indian Spy", "Thriller"],
+    "platform": "amazon prime",
+    "casting": {
+      "actors": [
+        "Mannoj Bajpayee",
+        "Priyamani",
+        "Ashlesha Thakur",
+        "Vedant Sinha",
+        "Sharib Hashmi",
+        "Shahab Ali",
+        "Samantha Ruth Prabhu"
+      ],
+   },   
+{
+    "id": 104,
+    "name": "Bandish Bandits",
+    "rating": 8.7,
+    "description": "Indian classical singer Radhe and pop star Tamanna. Despite their contrasting personalities, the two set out together on a journey of self-discovery to see if opposites, though they might attract, can also adapt and go the long haul.",
+    "category": ["Music", "Drama", "Romance"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": [
+        "Ritwik Bhowmik",
+        "Shreya Chaudhary",
+        "Naseeruddin Shah",
+        "Sheeba Chaddha",
+        "Rajesh Tailang",
+        "Kunaal Roy Kapur"
+      ],
+      "director": ["Anand Tiwari"]
+    },
+    "poster": "https://www.imdb.com/title/tt9814458/mediaviewer/rm3169496833/?ref_=tt_ov_i",
+    "episodeCount": 10,
+    "seasons": 1,
+    "releaseDate": "4 August 2020"
+  },
+
+  {
+    "id": 104,
+    "name": "The Family Man",
+    "rating": 8.8,
+    "description": "A working man from the National Investigation Agency tries to protect the nation from terrorism, but he also needs to keep his family safe from his secret job.",
+    "category": ["Comedy", "Drama", "Action"],
+    "platform": "Amazon Prime Video",
+    "casting": {
+      "actors": [
+        "Manoj Bajpayee",
+        "Samantha Akkineni",
+        "Priyamani",
+        "Sharib Hashmi",
+        "Ashlesha Thakur",
+        "Vedant Sinha",
+        "Shahab Ali",
+        "Shreya Dhanwanthary"
+      ],"director": ["Krishna D.K.", "Raj Nidimoru", "Suparn Varma"
+    }, 
+                   {
+    "id": 105,
+    "name": "Undekhi",
+    "rating": 8,
+    "description": "The series depicts the two aspects of the society - the power-drunk influential people who think they can get away with anything and the oppressed, subjected to years of torture, who finally decide to bring themselves to justice.",
+    "category": ["crime thriller"],
+    "platform": "SonyLiv",
+    "casting": {
+      "actors": [
+        "Dibyendu Bhattacharya",
+        "Surya Sharma ",
+        "Harsh Chhaya",
+        "Anchal Singh",
+        "Abhishek Chauhan",
+        "Ankur Rathee",
+        "Ayn Zoya ",
+        "Apeksha Porwal",
+        "Karmveer Choudhary",
+        "Mandeep Bamra",
+        "Vaarun Bhagat",
+        "Sayandeep Sengupta",
+        "Meenakshi Sethi",
+        "Shivaani Sopuri","Shivangi Singh"
+      ],
+      "director": "Ashish R. Shukla."
+    },
+
+>>>>>>> 9b14da2acdc28283836bd97d2f8f6692465836fa
 ]
